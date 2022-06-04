@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node":"<=16.x",
-    "npm":"<=8.x"
+    "node":"16.13.x",
+    "npm":"8.1.2"
   },
   "dependencies": {
     "@david.kucsai/react-pdf-table": "^0.4.1",
